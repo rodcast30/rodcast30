@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rodcast30
-- 👀 I’m interested in Web development and Blockchain development
-- 🌱 I’m currently learning Web development
-- 💞️ I’m looking to collaborate on Startups
+- 👀 I’m interested in web development and blockchain development
+- 🌱 I’m currently learning web development
+- 💞️ I’m looking to collaborate on tech Startups
 - 📫 How to reach me: rodcast30@gmail.com
 
 <!---
